@@ -1,0 +1,78 @@
+﻿cnumber,semester,year,a_name,due_date,text,total_points
+CS171,Fall,2017,Assignment1,2017/9/15 23:59,Use ArrayList to program a Blackjack game.,100
+CS171,Fall,2018,Assignment1,2018/9/13 23:59,Use ArrayList to program a Blackjack game.,100
+CS377,Spring,2019,Homework1,2019/2/7 10:00,Create an ER diagram for the Emory College University Database.,100
+CS171,Fall,2019,Assignment1,2019/9/20 23:59,Use ArrayList to program a Blackjack game,100
+CS377,Spring,2020,Assignment1,2020/2/9 23:59,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,100
+CS171,Fall,2020,Project1,2020/9/26 0:00,Use OOP to implement different types of shapes,100
+CS377,Spring,2021,Assignment1,2021/2/9 23:59,Write queries and relational constraints in relational algebra for the 2019 Pan Am Games.,100
+CS171,Fall,2021,Assignment1,2021/9/20 0:00,Use OOP to implement different types of shapes,100
+CS377,Fall,2021,Assignment1,2021/9/22 23:59,Write relational algebra queries for two different database schemas.,100
+CS171,Fall,2017,Assignment2,2017/9/28 23:59,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+CS171,Fall,2018,Assignment2,2018/9/29 23:59,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+CS377,Spring,2019,Homework2,2019/2/14 10:00,Design a relational data model for various ER models of the university,100
+CS171,Fall,2019,Assignment2,2019/10/2 23:59,Use stacks to implement a backtracking algorithm to solve N-Queens problem.,100
+CS377,Spring,2020,Assignment2,2020/2/29 23:59,Write SQL queries to work with a music industry database.,100
+CS171,Fall,2020,Project2,2020/10/15 23:59,Solve the famous Knights Tour problem using a stack,100
+CS377,Spring,2021,Assignment2,2021/2/27 23:59,Write SQL queries to work with a music industry database.,100
+CS171,Fall,2021,Assignment2,2021/10/4 23:59,Use ArrayList to program a Blackjack game,100
+CS377,Fall,2021,Assignment2,2021/10/6 23:59,Formulate SQL queries for the Yelp Database,100
+CS171,Fall,2017,Assignment3,2017/10/8 23:59,Use stacks and queues to solve a maze traversal problem.,100
+CS171,Fall,2018,Assignment3,2018/10/10 23:59,Use stacks and queues to solve a maze traversal problem.,100
+CS377,Spring,2019,Homework3,2019-02-26 10:00:000,Formulate relational algebra queries,100
+CS171,Fall,2019,Assignment3,2019/10/10 23:59,Use stacks and queues to solve a maze traversal problem.,100
+CS377,Spring,2020,Assignment3,2020/4/3 23:59,Develop a Java application to browse the music industry database,100
+CS171,Fall,2020,Midterm,2020/10/22 11:30,Online midterm for CS171,50
+CS377,Spring,2021,Assignment3,2021/4/2 23:59,Develop a Java application to browse the music industry database,100
+CS171,Fall,2021,Assignment3,2021/10/18 23:59,Solve the famous Knights Tour problem using a stack,100
+CS377,Fall,2021,Assignment3,2021/10/18 23:59,Formulate advanced SQL queries for the Yelp Database,100
+CS171,Fall,2017,Assignment4,2017/10/20 23:59,Implement bubble sort and a non-recursive version of mergesort.,100
+CS171,Fall,2018,Assignment4,2018/11/1 23:59,Implement bubble sort and a non-recursive version of mergesort.,100
+CS377,Spring,2019,Midterm,2019/3/21 10:00,Midterm for the course,100
+CS171,Fall,2019,Assignment4,2019/10/24 23:59,Implement bubble sort and a non-recursive version of mergesort.,100
+CS377,Spring,2020,Assignment4,2020/5/2 23:59,Database design for the US congress database,100
+CS171,Fall,2020,Project3,2020/10/30 23:59,Implement an Itunes playlist using a double-ended linked list,100
+CS377,Spring,2021,Assignment4,2021/4/28 23:59,Database design for the US congress database,100
+CS171,Fall,2021,Midterm,2021/10/20 13:00,Midterm exam,60
+CS377,Fall,2021,Midterm,2021/10/20 13:00,Midterm exam,100
+CS377,Fall,2021,Midterm,2021/4/28 23:59,Midterm exam,100
+CS171,Fall,2017,Midterm1,2017/10/24 8:30,First midterm of the the course.,60
+CS171,Fall,2018,Midterm1,2018/10/22 8:30,First midterm of the the course.,60
+CS377,Spring,2019,Homework4,2019/3/26 23:59,Answer some SQL queries on the supplier project database.,100
+CS171,Fall,2019,Midterm1,2019/10/25 8:30,First midterm of the the course.,60
+CS377,Spring,2020,Midterm,2020/4/15 8:30,Online midterm exam,100
+CS171,Fall,2020,Project4,2020/11/14 23:59,Implement several sorting optimization algorithms,100
+CS377,Spring,2021,Midterm,2021/4/15 8:30,Online midterm exam,100
+CS171,Fall,2021,Assignment4,2021/11/4 23:59,Implement an Itunes playlist using a double-ended linked list,100
+CS377,Fall,2021,Assignment4,2021/11/5 23:59,Formulate MongoDB queries for the Yelp database,100
+CS377,Fall,2021,Assignment4,2020/11/14 23:59,Formulate MongoDB queries for the Yelp database,100
+CS171,Fall,2017,Assignment5,2017/11/14 23:59,Implement a hash table to count the number of times a word appears in a document.,100
+CS171,Fall,2018,Assignment5,2018/11/13 23:59,Implement a hash table to count the number of times a word appears in a document.,100
+CS377,Spring,2019,Homework5,2019/4/4 23:59,Answer more advanced queries on the supplier project database.,100
+CS171,Fall,2019,Assignment5,2019/11/13 23:59,Implement a hash table to count the number of times a word appears in a document.,100
+CS377,Spring,2020,Final Exam,2020/5/9 10:00,Online final exam,150
+CS171,Fall,2020,Project5,2020/11/29 23:59,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,100
+CS377,Spring,2021,Final Exam,2021/5/6 10:00,Online final exam,150
+CS171,Fall,2021,Assignment5,2021/11/24 23:59,Implement several sorting optimization algorithms,100
+CS377,Fall,2021,Assignment5,2019/11/19 23:59,Database design questions.,100
+CS171,Fall,2017,Midterm2,2017/11/21 8:30,Second midterm of the course,60
+CS171,Fall,2018,Midterm2,2018/11/19 8:30,Second midterm of the course,60
+CS377,Spring,2019,Homework6,2019/4/18 23:59,Write a JDBC application that can execute a SQL query on a selected database.,100
+CS171,Fall,2019,Midterm2,2019/11/21 8:30,Second midterm of the course,60
+CS171,Fall,2020,Final Exam,2020/5/9 10:00,Online final exam,120
+CS171,Fall,2021,Assignment6,2021/12/5 23:59,Implement a Binary Search Tree for indexing/searching movies efficiently in IMDB,100
+CS377,Fall,2021,Final Project,2021/12/7 23:59,Develop a learning management system using PHP!,200
+CS171,Fall,2017,Final Project,2017/12/6 11:59,Use a binary search tree to find Twitter Contents,150
+CS171,Fall,2018,Final Project,2018/12/5 11:59,Use a binary search tree to find Twitter Contents,150
+CS377,Spring,2019,Homework7,2019/4/25 23:59,Develop a PHP application to query the supplier database,100
+CS171,Fall,2019,Final Project,2019/12/8 11:59,Use a binary search tree to find Twitter Contents,150
+CS171,Fall,2021,Final Exam,2021/12/15 15:00,100,
+CS377,Fall,2021,Final Exam,2021/12/15 8:00,200,
+CS171,Fall,2017,Bonus Quiz,2017/12/8 23:59,Solve some algorithm analysis questions,10
+CS171,Fall,2018,Bonus Quiz,2019/12/6 23:59,Solve some algorithm analysis questions,10
+CS377,Spring,2019,Homework8,2019/5/3 0:00,Perform 3NF normalization on a database,100
+CS171,Fall,2019,Bonus Quiz,2019/12/8 23:59,Solve some algorithm analysis questions,10
+CS171,Fall,2017,Final Exam,2017/12/13 10:00,Last exam!,100
+CS171,Fall,2018,Final Exam,2019/12/8 8:00,Last exam!,100
+CS377,Spring,2019,Final Exam,2019/5/6 8:00,Final exam for CS377,100
+CS171,Fall,2019,Final Exam,2019/12/10 14:00,Last exam!,100

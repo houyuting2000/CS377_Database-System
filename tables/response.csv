@@ -1,0 +1,44 @@
+﻿cnumber,semester,year,poster_id,post_date,replier_id,reply_date,reply_text
+CS377,Fall,2021,bSZa17FK2l,2021/9/5 16:30,ize3lkeNiR,2021/9/5 16:35,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.
+CS377,Fall,2021,Xo3aGKAsfE,2021/9/5 10:15,ize3lkeNiR,2021/9/5 13:35,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.
+CS377,Fall,2021,A1Kcf8Z1u3,2021/10/15 7:25,ize3lkeNiR,2021/10/15 13:32,The numbers seem to be incorrect and it seems the points were posted?
+CS377,Fall,2021,fk7USWbA60,2021/10/9 8:30,A1Kcf8Z1u3,2021/10/9 10:24,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL
+CS377,Fall,2021,bSZa17FK2l,2021/10/15 7:48,PiQvBSPut9,2021/10/16 6:23,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables
+CS171,Fall,2021,wUSNkrt2i7,2021/10/1 14:35,qBhsb9AT1D,2021/10/1 17:41,I believe just choosing a random card from the deck to deal out cards is enough.
+CS171,Fall,2021,AyZm6kgtLQ,2021/10/1 19:01,wUSNkrt2i7,2021/10/1 20:23,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.
+CS171,Fall,2021,qBhsb9AT1D,2021/10/14 11:30,YXCMIivcy6,2021/10/14 17:11,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.
+CS171,Fall,2021,loWO7ep40W,2021/10/16 8:37,qBhsb9AT1D,2021/10/16 10:04,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine
+CS171,Fall,2021,AyZm6kgtLQ,2021/10/31 16:35,wUSNkrt2i7,2021/10/31 20:01,Exceptions stop execution
+CS377,Spring,2021,qjAClhRo8T,2021/2/4 3:45,v9ksRoAENe,2021/2/4 7:05,I think the bowtie means natural join
+CS377,Spring,2021,I8k5HwpLlU,2021/4/9 19:13,JulFHBBgP9,2021/4/9 20:26,Everything up until today's lecture can be included as material on the exam
+CS377,Spring,2021,cp5asEx6KR,2021/3/21 4:28,A1Kcf8Z1u3,2021/3/21 10:59,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.
+CS377,Spring,2021,AnRRwDoMFm,2021/3/29 4:47,OhfDW5FQet,2021/3/29 4:47,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY
+CS377,Spring,2021,l8Ck5AEii7,2021/4/25 6:10,JulFHBBgP9,2021/4/25 13:39,Please submit a regrade request via email to me with the email header [CS377]
+CS377,Spring,2021,nlNo3Ifie2,2021/4/10 12:31,Rjuqf7P3nX,2021/4/10 17:01,Have you tried reloading the page or clearing your cache?
+CS377,Spring,2021,fe20lUruvB,2021/4/17 12:31,QVsfnLS8nP,2021/4/17 16:11,Try cloud.google.com
+CS377,Spring,2021,EIBGkZJ8LU,2021/5/1 5:40,JulFHBBgP9,2021/5/1 5:48,Everything covered in the class can appear on the final exam
+CS377,Spring,2021,I8k5HwpLlU,2021/4/26 1:32,JulFHBBgP9,2021/4/26 7:35,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute
+CS171,Fall,2020,8uv1aK9btU,2020/9/15 6:53,RxNqRHaaoI,2020/9/15 8:01,I like Sublime Text Editor and using the command line to compile
+CS171,Fall,2020,WVztzxaqG1,2020-10-13  22:39:07,ECk9NPOnC1,2020/10/13 22:55,As long as its within reasonable time frames you will not be deducted points.
+CS171,Fall,2020,lKOmgoDP5M,2020/10/28 5:19,ECk9NPOnC1,2020/10/28 5:19,You may want to verify that you are appropriately updating your variables. Try using System.out.println.
+CS171,Fall,2020,pAA8hhbaAf,2020/11/12 8:59,JulFHBBgP9,2020/11/12 14:10,You may want to explore different shuffle variants that are found on Wikipedia.
+CS171,Fall,2020,bCSKEQsp82,2020/11/28 3:35,JulFHBBgP9,2020/11/28 9:18,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.
+CS377,Spring,2020,WJrWAidLZ5,2020/2/28 5:50,JulFHBBgP9,2020/2/28 7:41,Please try using the GCP instance to avoid having to implement your local copy.
+CS377,Spring,2020,tmt3aPs20s,2020/4/1 0:30,fC8CoZyN8g,2020/4/1 2:35,No it doesn't matter so long as it can functionally browse the database.
+CS377,Spring,2020,PiQvBSPut9,2020/4/2 14:24,WJrWAidLZ5,2020/4/2 19:47,I believe we should be using JDK 8.0
+CS377,Spring,2020,tmt3aPs20s,2020/4/10 13:02,JulFHBBgP9,2020/4/10 14:49,Yes they have been uploaded onto Canvas.
+CS377,Spring,2020,PiQvBSPut9,2020/5/1 2:08,JulFHBBgP9,2020/5/2 5:37,No there won't be any solutions for the sample final problems.
+CS377,Fall,2021,bSZa17FK2l,2021/9/5 16:30,WJrWAidLZ5,2021/9/5 20:45,Yes Elaine is correct in this response.
+CS377,Fall,2021,fk7USWbA60,2021/10/9 8:30,Xo3aGKAsfE,2021/10/25 13:45,Does this apply for Q9 as well?
+CS171,Fall,2021,AyZm6kgtLQ,2021/10/1 19:01,RxNqRHaaoI,2021/10/1 23:22,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most
+CS171,Fall,2021,qBhsb9AT1D,2021/10/14 11:30,RwKSObZt8b,2021/10/15 5:19,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.
+CS171,Fall,2021,loWO7ep40W,2021/10/16 8:37,QVsfnLS8nP,2021/10/16 12:01,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.
+CS377,Spring,2021,AnRRwDoMFm,2021/3/29 4:47,A1Kcf8Z1u3,2021/3/29 9:35,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause
+CS377,Spring,2021,I8k5HwpLlU,2021/4/26 1:32,qjAClhRo8T,2021/4/26 8:11,Why is database normalization important?
+CS171,Fall,2020,8uv1aK9btU,2020/9/15 6:53,RwKSObZt8b,2020/9/15 8:23,Have you tried Eclipse? It's the best!
+CS377,Spring,2020,tmt3aPs20s,2020/4/1 0:30,tmt3aPs20s,2020/4/1 11:05,Do I need to sanitize the user input?
+CS377,Fall,2021,fk7USWbA60,2021/10/9 8:30,,2021/10/25 18:21,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.
+CS377,Spring,2021,I8k5HwpLlU,2021/4/26 1:32,Rjuqf7P3nX,2021/4/26 12:41,Database normalization is important because it's a rite of passage into the database community
+CS171,Fall,2020,8uv1aK9btU,2020/9/15 6:53,AnRRwDoMFm,2020/9/15 11:04,What about Netbeans? It was originally part of the JDK.
+CS171,Fall,2020,8uv1aK9btU,2020/9/15 6:53,ECk9NPOnC1,2020/9/15 11:05,IntelliJ is also another useful IDE
+CS171,Fall,2020,8uv1aK9btU,2020/9/15 6:53,JulFHBBgP9,2020/9/15 11:55,Microsoft Visual Studio has a student developer pack as well.
